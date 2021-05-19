@@ -1,0 +1,4 @@
+repository "BombMan@ssl://wechat_os_qy08i80x40lg1bqd89xedklpg@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/839792392" 
+     
